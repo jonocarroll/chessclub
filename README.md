@@ -15,12 +15,12 @@ spreadsheet of played games as `games.csv` (example file included).
 
 ## Demo
 
-[](images/01_allplayers.png)
-[](images/02_individualplayers.png)
-[](images/03_playmatrix.png)
-[](images/04_winmatrix.png)
-[](images/05_allgames.png)
-[](images/06_upsets.png)
+![](images/01_allplayers.png)
+![](images/02_individualplayers.png)
+![](images/03_playmatrix.png)
+![](images/04_winmatrix.png)
+![](images/05_allgames.png)
+![](images/06_upsets.png)
 
 ## Installation
 
