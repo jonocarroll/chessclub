@@ -4,7 +4,7 @@ library(shinydashboard)
 source("functions.R")
 
 dashboardPage(
-    dashboardHeader(title = paste(CLUB_NAME, "Chess Club 2023")),
+    dashboardHeader(title = paste(CLUB_NAME, "Chess Club 2024")),
     ## Sidebar content
     dashboardSidebar(
         sidebarMenu(
